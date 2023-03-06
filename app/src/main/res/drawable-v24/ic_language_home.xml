@@ -1,0 +1,48 @@
+<!--
+  ~ Copyright (c) https://bigzun.blogspot.com/
+  ~ Email: bigzun.com@gmail.com
+  ~ Created by admin on 2020/11/27
+  ~
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="25dp"
+    android:height="25dp"
+    android:viewportWidth="25"
+    android:viewportHeight="25">
+  <path
+      android:strokeWidth="1"
+      android:pathData="M12.5,24C18.8513,24 24,18.8513 24,12.5C24,6.1487 18.8513,1 12.5,1C6.1487,1 1,6.1487 1,12.5C1,18.8513 6.1487,24 12.5,24Z"
+      android:strokeLineJoin="round"
+      android:fillColor="#00000000"
+      android:strokeColor="#ffffff"
+      android:strokeLineCap="round"/>
+  <path
+      android:strokeWidth="1"
+      android:pathData="M1.7667,8.6667H23.2333"
+      android:strokeLineJoin="round"
+      android:fillColor="#00000000"
+      android:strokeColor="#ffffff"
+      android:strokeLineCap="round"/>
+  <path
+      android:strokeWidth="1"
+      android:pathData="M1.7667,16.3333H23.2333"
+      android:strokeLineJoin="round"
+      android:fillColor="#00000000"
+      android:strokeColor="#ffffff"
+      android:strokeLineCap="round"/>
+  <path
+      android:strokeWidth="1"
+      android:pathData="M11.8611,1C9.7085,4.4495 8.5673,8.4339 8.5673,12.5C8.5673,16.5661 9.7085,20.5505 11.8611,24"
+      android:strokeLineJoin="round"
+      android:fillColor="#00000000"
+      android:strokeColor="#ffffff"
+      android:strokeLineCap="round"/>
+  <path
+      android:strokeWidth="1"
+      android:pathData="M13.1389,1C15.2915,4.4495 16.4327,8.4339 16.4327,12.5C16.4327,16.5661 15.2915,20.5505 13.1389,24"
+      android:strokeLineJoin="round"
+      android:fillColor="#00000000"
+      android:strokeColor="#ffffff"
+      android:strokeLineCap="round"/>
+</vector>
